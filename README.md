@@ -19,7 +19,7 @@ I'm Senanur, a passionate developer and lifelong learner. Welcome to my GitHub p
 - Machine learning
 - My favorite programming languages
 
-  ### 🚀 Languages and Tools
+### 🚀 Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/> 
