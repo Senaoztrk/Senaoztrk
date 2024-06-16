@@ -21,10 +21,14 @@ I'm Senanur, a passionate developer and lifelong learner. Welcome to my GitHub p
 
   ### 🚀 Languages and Tools
 
-![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw2nijeP7ChkBMnqAPso_iOi&ust=1718629782036000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiOtP-Y4IYDFQAAAAAdAAAAABAE)
-![Java](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&psig=AOvVaw3X2e3WEe-N11ZnDoLa5Scx&ust=1718629828445000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC__JqZ4IYDFQAAAAAdAAAAABAE)
-![HTML5](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fhtml5-vector-logo-204.html&psig=AOvVaw1CSGD0En6-F-o72DpnMOPn&ust=1718629862551000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi6iaaZ4IYDFQAAAAAdAAAAABAE)
-![CSS3](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fcss3-vector-logo-2229.html&psig=AOvVaw1vr5xitOUa5MU7gijbuPHp&ust=1718629881870000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjDha-Z4IYDFQAAAAAdAAAAABAE)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![Machine Learning](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg)
 
 
 ### 📫 How to reach me
