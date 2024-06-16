@@ -21,10 +21,10 @@ I'm Senanur, a passionate developer and lifelong learner. Welcome to my GitHub p
 
   ### 🚀 Languages and Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw2nijeP7ChkBMnqAPso_iOi&ust=1718629782036000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiOtP-Y4IYDFQAAAAAdAAAAABAE)
+![Java](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&psig=AOvVaw3X2e3WEe-N11ZnDoLa5Scx&ust=1718629828445000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC__JqZ4IYDFQAAAAAdAAAAABAE)
+![HTML5](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fhtml5-vector-logo-204.html&psig=AOvVaw1CSGD0En6-F-o72DpnMOPn&ust=1718629862551000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi6iaaZ4IYDFQAAAAAdAAAAABAE)
+![CSS3](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fcss3-vector-logo-2229.html&psig=AOvVaw1vr5xitOUa5MU7gijbuPHp&ust=1718629881870000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjDha-Z4IYDFQAAAAAdAAAAABAE)
 
 
 ### 📫 How to reach me
