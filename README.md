@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Funny GIF](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif)
+![Funny GIF](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
 
 
 I'm Senanur, a passionate developer and lifelong learner. Welcome to my GitHub profile!
