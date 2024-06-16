@@ -20,6 +20,6 @@ I'm Senanur, a passionate developer and lifelong learner. Welcome to my GitHub p
 - My favorite programming languages
 
 ### 📫 How to reach me
-- [LinkedIn](www.linkedin.com/in/senanurozturk01)
+- [LinkedIn](https://www.linkedin.com/in/senanur-%C3%B6zt%C3%BCrk-909ab7219/)
   
 
