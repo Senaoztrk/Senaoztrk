@@ -3,34 +3,36 @@
 ![Funny GIF](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
 
 
-I'm Senanur, a passionate developer and lifelong learner. Welcome to my GitHub profile!
+👋 Hi, I’m Senanur – a passionate developer and lifelong learner.  
+Welcome to my GitHub profile!
 
+## 🛠️ I’m currently working on
+- A full-stack project using **React** and **Spring Boot**
+- Exploring new features of **JavaScript** for dynamic front-end development
+- Machine learning experiments using **Python** and **TensorFlow**
 
-### 🔭 I’m currently working on
-- An exciting project involving machine learning and python
-- Web programming with HTML, Java and CSS
-  
-### 🌱 I’m currently learning
-- Advanced Java techniques
+## 📚 I’m currently learning
+- **Spring Boot** for building robust backend services  
+- **React.js** for modern front-end architecture  
+- Deeper dive into **machine learning** concepts
+
+## 💬 Ask me about
+- Full-stack web development (React + Spring Boot)
+- JavaScript & modern frontend tools
 - Machine learning with Python
 
-### 💬 Ask me about
-- Web programming
-- Machine learning
-- My favorite programming languages
-
-### 🚀 Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Machine Learning" width="40" height="40" style="margin-right: 10px;"/>
+## 🧰 Languages and Tools  
+<p float="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40"/>
 </p>
+
 
 
 ### 📫 How to reach me
