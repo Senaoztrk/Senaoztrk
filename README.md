@@ -6,33 +6,29 @@
 👋 Hi, I’m Senanur – a passionate developer and lifelong learner.  
 Welcome to my GitHub profile!
 
-## 🛠️ I’m currently working on
-- A full-stack project using **React** and **Spring Boot**
-- Exploring new features of **JavaScript** for dynamic front-end development
-- Machine learning experiments using **Python** and **TensorFlow**
+🛠️ I’m currently working on
+A full-stack graduation project using Spring Boot (Java) and React.js
 
-## 📚 I’m currently learning
-- **Spring Boot** for building robust backend services  
-- **React.js** for modern front-end architecture  
-- Deeper dive into **machine learning** concepts
+Building a dietitian-patient tracking system with JWT authentication, PostgreSQL and Nutritionix API
 
-## 💬 Ask me about
-- Full-stack web development (React + Spring Boot)
-- JavaScript & modern frontend tools
-- Machine learning with Python
+Learning SAP ABAP during my internship and exploring the corporate software ecosystem
 
-## 🧰 Languages and Tools  
-<p float="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40"/>
-</p>
+📚 I’m currently learning
+Spring Boot & advanced backend development (REST API, JWT, DTO, JPA)
 
+React.js for building dynamic, user-friendly UIs
+
+Basics of SAP ABAP and enterprise software structures
+
+💬 Ask me about
+Full-stack development (React + Spring Boot)
+
+Frontend tools (JavaScript, Axios, Chart.js)
+
+REST APIs, authentication and PostgreSQL integration
+
+🧰 Languages and Tools
+<p float="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> </p>
 
 
 ### 📫 How to reach me
