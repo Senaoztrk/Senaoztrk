@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![Funny GIF](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
+![Senaoztrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senaoztrk&show_icons=true&theme=radical)
+
 
 
 👋 Hi, I’m Senanur – a passionate developer and lifelong learner.  
